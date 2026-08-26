@@ -1,4 +1,4 @@
-# Olá, eu sou Neithan Nunes 👋
+Olá, eu sou Neithan Nunes 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha base em desenvolvimento de software e buscando transformar conhecimento em projetos práticos.
 
